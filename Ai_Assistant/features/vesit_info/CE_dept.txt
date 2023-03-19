@@ -1,0 +1,18 @@
+
+Hello
+Greetings SE-CMPN students!!
+The Computer Engineering Department is back with another exciting Add-On Course (Upskilling) on  "Flutter.- Mobile Application Development" of 30+ hrs.
+That too free of cost!!
+The course will be conducted in collaboration with Institute Innovation Cell (IIC) and Internal Quality Assurance Cell (IQAC). The participants will get to learn about Flutter from curated modules which will be taught On Saturdays, starting from 5th March, 22 to 16th April, 22. 
+This will be a complete Hands-On course through which students will learn about Flutter, a flourishing framework used to make mobile and web applications.
+Date: 5th March, 22 to 16th April, 22
+Time: 10:00 AM to 5:00 PM
+
+Form Link : https://forms.gle/nDykFwEvvoK4Rcxs5
+(Form closes at 5:00 PM on 4th March 2022)
+
+All participants are requested to download : 
+1. Android studio with Flutter SDK installed
+2. A mobile device (physical or virtual)
+Please feel free to refer to this YouTube video for any references and contact richard.joseph@ves.ac.in for any queries.
+Click here to view PDF

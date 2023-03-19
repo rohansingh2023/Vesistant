@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>Form</class>
+ <widget class="QWidget" name="Form">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1128</width>
+    <height>787</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Form</string>
+  </property>
+  <property name="styleSheet">
+   <string notr="true">background-color: rgb(255, 255, 255);
+</string>
+  </property>
+  <widget class="QLineEdit" name="lineEdit">
+   <property name="geometry">
+    <rect>
+     <x>260</x>
+     <y>430</y>
+     <width>261</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QLineEdit{
+background-color: rgb(170,170,170);
+border:3px solid #747474;
+border-radius: 10px;
+font:Arial;
+}
+QLineEdit:Focus{
+border:3px solid rgb(0,0,255);
+background-color: rgb(255, 255, 255);
+}</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_2">
+   <property name="geometry">
+    <rect>
+     <x>180</x>
+     <y>220</y>
+     <width>151</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">
+QPushButton{
+background-color: rgb(170,170,170);
+border-radius: 20px;
+font: 75 8pt &quot;MS Shell Dlg 2&quot;;
+border:3px solid #747474;
+}
+QPushButton:hover{
+background-color: #a5b6ff;
+border:5px solid #0000ff ;
+}</string>
+   </property>
+   <property name="text">
+    <string>FACE LOGIN</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_4">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>1131</width>
+     <height>801</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">color: rgb(0, 0, 255);
+font: 12pt &quot;MS Shell Dlg 2&quot;;</string>
+   </property>
+   <property name="text">
+    <string/>
+   </property>
+   <property name="pixmap">
+    <pixmap resource="../test1.qrc">:/newPrefix/newai.jpg</pixmap>
+   </property>
+   <property name="scaledContents">
+    <bool>true</bool>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_2">
+   <property name="geometry">
+    <rect>
+     <x>360</x>
+     <y>370</y>
+     <width>261</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QLineEdit{
+background-color: #a6b7ff;
+border:3px solid rgb(0,0,170);
+border-radius: 10px;
+font:Arial;
+}
+QLineEdit:Focus{
+border:3px solid #ffff00;
+background-color: #ffffd9;
+}</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_3">
+   <property name="geometry">
+    <rect>
+     <x>290</x>
+     <y>570</y>
+     <width>151</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">
+QPushButton{
+background-color: #a6b7ff;
+border:3px solid rgb(0,0,170);
+border-radius: 20px;
+font: 75 8pt &quot;MS Shell Dlg 2&quot;;
+}
+QPushButton:hover{
+background-color: rgb(255, 153, 119);
+border:5px solid #cf1f00 ;
+}</string>
+   </property>
+   <property name="text">
+    <string>LOGIN</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_5">
+   <property name="geometry">
+    <rect>
+     <x>140</x>
+     <y>460</y>
+     <width>171</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">color: rgb(0, 0, 255);
+font: 12pt &quot;MS Shell Dlg 2&quot;;
+background-color: none;</string>
+   </property>
+   <property name="text">
+    <string>ENTER PASSWORD</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_6">
+   <property name="geometry">
+    <rect>
+     <x>140</x>
+     <y>360</y>
+     <width>171</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">color: rgb(0, 0, 255);
+font: 12pt &quot;MS Shell Dlg 2&quot;;
+background-color: none</string>
+   </property>
+   <property name="text">
+    <string>ENTER USERNAME</string>
+   </property>
+  </widget>
+  <widget class="QLineEdit" name="lineEdit_3">
+   <property name="geometry">
+    <rect>
+     <x>360</x>
+     <y>470</y>
+     <width>261</width>
+     <height>31</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">QLineEdit{
+background-color: #a6b7ff;
+border:3px solid rgb(0,0,170);
+border-radius: 10px;
+font:Arial;
+}
+QLineEdit:Focus{
+border:3px solid #ffff00;
+background-color: #ffffd9;
+}</string>
+   </property>
+  </widget>
+  <widget class="QLabel" name="label_7">
+   <property name="geometry">
+    <rect>
+     <x>170</x>
+     <y>150</y>
+     <width>411</width>
+     <height>51</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">color: rgb(0, 0, 255);
+font: 15pt &quot;MS Shell Dlg 2&quot;;
+font-style: Bold;
+background-color: none;
+color: rgb(255, 248, 41);</string>
+   </property>
+   <property name="text">
+    <string>LOGIN USING FACE RECOGNITION</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton_4">
+   <property name="geometry">
+    <rect>
+     <x>290</x>
+     <y>250</y>
+     <width>151</width>
+     <height>41</height>
+    </rect>
+   </property>
+   <property name="styleSheet">
+    <string notr="true">
+QPushButton{
+background-color: #e4ee8b;
+border-radius: 20px;
+font: 75 8pt &quot;MS Shell Dlg 2&quot;;
+border:3px solid #ffff00;
+}
+QPushButton:hover{
+background-color: rgb(255, 153, 119);
+border:5px solid #cf1f00 ;
+}</string>
+   </property>
+   <property name="text">
+    <string>FACE LOGIN</string>
+   </property>
+  </widget>
+ </widget>
+ <resources>
+  <include location="../test1.qrc"/>
+ </resources>
+ <connections/>
+</ui>

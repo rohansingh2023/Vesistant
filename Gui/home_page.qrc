@@ -1,0 +1,18 @@
+<RCC>
+  <qresource prefix="ai4">
+    <file>../../../../../Downloads/ai5.gif</file>
+  </qresource>
+  <qresource prefix="github">
+    <file>github.png</file>
+  </qresource>
+  <qresource prefix="facebook">
+    <file>facebook.png</file>
+  </qresource>
+  <qresource prefix="website">
+    <file>google.png</file>
+  </qresource>
+  <qresource prefix="youtube">
+    <file>youtube_logo.jpg</file>
+  </qresource>
+  <qresource/>
+</RCC>

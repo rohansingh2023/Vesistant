@@ -1,0 +1,50 @@
+
+ Improved KNN Based Music Recommendation Engine 
+ By Shivani Vijay Patil, Information Technology, VESIT Introduction In this blog we are going to see how to build a music recommendation  Engine using an improved KNN algorithm and  the main steps involved to build it. So,…
+ Read More 
+
+
+ Recognizing emotion from Speech using Machine learning and Deep learning 
+ By Abhay Anupam Gupta, Computer Engineering, VESIT Introduction Human communication through the spoken language is the base for Information exchange and it is the main aspect of the society since the first human settlements. In the same…
+ Read More 
+
+
+ Flu Shot Learning: Predict H1N1 And Seasonal Flu Vaccines 
+ By Jay Jhaveri, Computer Engineering, VESIT Abstract The H1N1 Flu that came into existence in 2009 in the U.S. and spread to the rest of the world had a great impact on the lives of people around…
+ Read More 
+
+
+ Making Deep Neural Networks Ready For Mobile/Edge Devices 
+ By Devdatta Khoche, Information Technology, VESIT Introduction With the advancements in the recent era of Deep Learning and AI, comes the need of having the state-of-the-art models on the edge devices, without loss in their originality and…
+ Read More 
+
+
+ A Structured Filter Pruning Approach for Efficient Inference of Deep Neural Networks 
+ By Akash Maurya, Information Technology, VESIT Introduction Neural networks are a set of algorithms, modeled loosely after the human brain, that is designed to recognize patterns. They interpret sensory data through a kind of machine perception, labeling,…
+ Read More 
+
+
+ Pandemics!A Harsh Reality :( 
+ By Jay Jhaveri, Computer Engineering, VESIT Introduction As you all know, at the moment our world is in the middle of a crisis! People have been stuck in their homes due to the COVID-19 pandemic and are…
+ Read More 
+
+
+ DengAI: Disease Spread Prediction 
+ By Padmaja Borwankar, Computer Engineering, VESIT Introduction Disease spread is a very important issue as it jeopardizes lives of people all over the world. The recent COVID-19 pandemic has given bitter experiences to most of us and…
+ Read More 
+
+
+ Identifying Weeds using Image Classification 
+ By Archana Bhatia, Computer Engineering, VESIT Introduction In this article, we will be talking about the application of AI in the field of agriculture. Specifically, we’ll build a CNN model to classify the farm images to separate…
+ Read More 
+
+
+ Detection of Epileptic Seizure using Deep Learning Technique 
+ By Richa Bhatia, Computer Engineering, VESIT What is EEG? Electroencephalography ( EEG) is a method of electrophysiological monitoring to record activities of the brain. It is a non-invasive method in which electrodes are placed along the scalp.…
+ Read More 
+
+
+ Convolution Neural Networks for Urban Sound Classification 
+ By Neeraj Ochani, Computer Engineering, VESIT Abstract In every aspect of human life, sound plays an important role. From personal security to critical surveillance, sound is a key element to develop the automated systems for these fields.…
+ Read More 
+
