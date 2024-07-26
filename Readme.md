@@ -1,3 +1,18 @@
+# Overview
+
+- One-stop assistant with voice and chat to answer any question about VESIT.
+- Includes functionality like speech-recognition, face-recognition, etc.
+- It is developed into an Android, Web, and Desktop app.
+
+## Tech Stack
+
+- `Java` - Android App.
+- `Python` - PyQT for Desktop GUI and other scripts.
+- `ReactJS` - Website.
+- `MySQL` - This is for storing user details.
+- `Apache Server` - For running MySQL Instance.
+
+
 ## How to use
 
 First download all the dependencies using:
@@ -16,4 +31,4 @@ python homePage2.py
 
 Demo of the whole project
 
-https://www.youtube.com/watch?v=B41Feb-Xey8
+![Video Title](https://www.youtube.com/watch?v=B41Feb-Xey8)
