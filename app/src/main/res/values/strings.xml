@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Vesistant</string>
+    <string name="text1">Vesistant is an remote voice assistant made for the students of V.E.S Institute of Technology.</string>
+    <string name="text2">This AI powered tool acts as an 24/7 assistant for students to ask for college related queries. Students can ask queries related to admissions, departments, societies, placements, etc.</string>
+    <string name="text3">The Vesistant Application closes the gap between the university and the students by automating repetitive queries and helps students to stay up-to-date.</string>
+
+</resources>
