@@ -31,4 +31,4 @@ python homePage2.py
 
 Demo of the whole project
 
-![Video Title](https://www.youtube.com/watch?v=B41Feb-Xey8)
+![Video Title](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=B41Feb-Xey8)
